@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: interroll-france-guide-contact
+    runtime: static
+    buildCommand: echo "Site statique prêt"
+    staticPublishPath: .
