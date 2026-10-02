@@ -5,6 +5,7 @@ Ce dossier contient une page HTML autonome prête à être publiée comme **Stat
 ## Contenu
 
 - `index.html` : le guide de contact complet.
+- `favicon.svg` : logo Interroll affiché dans l'onglet du navigateur.
 - `departements.geojson` : contours des départements chargés localement.
 - `vendor/leaflet.min.js` et `vendor/leaflet.min.css` : bibliothèque de carte locale.
 - `render.yaml` : configuration optionnelle pour un déploiement Render Blueprint.
